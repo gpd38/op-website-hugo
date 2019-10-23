@@ -64,6 +64,7 @@ Ao adicionar o seu nome, por favor observe:
 | Giovanni Martins               | giovannimartins2000@gmail.com         | https://github.com/GiovanniSM20       |
 | Giuseppe Varriale              | pepe.saoleo@gmail.com                 | https://github.com/GiuseppeVarriale   |
 | Gustavo de Almeida             | gustavofcma@gmail.com                 | https://github.com/gustavofcma        |
+| Gustavo Pereira Dias           | gustavodias2@gmail.com                | https://github.com/gpd38              |
 | Hamon de Córdova Jorge         | hamoncj@gmail.com                     | https://github.com/hamonCordova       |
 | Helio Loureiro                 | helio@loureiro.eng.br                 | https://github.com/helioloureiro      |
 | Hemílio Lauro de Araújo Melo   | hemilioaraujo@gmail.com               | https://github.com/hemilioaraujo      |
